@@ -5,3 +5,7 @@ Normes identificateurs
 - nom des constantes : TAXES et taxes
 
 
+Normes méthodes
+- méthodes recoit en arguments les données qu'elle utilise
+- méthode ne fait jamais de sout ou de scan
+- un argument tableau est une référence sur une structure de xxx
