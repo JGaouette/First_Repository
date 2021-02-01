@@ -1,0 +1,7 @@
+Normes identificateurs
+- nom des classes: Main.java et non main.java
+- nom des variables: nbEtu et non NbEtu
+- nom des méthodes: somme et non Somme
+- nom des constantes : TAXES et taxes
+
+
